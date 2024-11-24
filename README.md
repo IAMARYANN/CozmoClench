@@ -6,7 +6,11 @@ This project involves the design and development of a gripper robot using Arduin
 Features:
 
 PWM-based motor control: Allows fine-tuned speed and direction adjustments for smooth movement.
+
 Servo-controlled gripper: Provides accurate gripping and release of objects.
+
 Autonomous and manual operation: The bot can navigate obstacles autonomously or be controlled manually.
+
 Obstacle navigation: Optimized for navigating through obstacle-filled environments.
+
 Technologies: Arduino, Mobitronics ESC, PWM Signals, Servo Motors, Embedded C, Robotics.
